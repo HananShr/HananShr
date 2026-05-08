@@ -1,226 +1,250 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Hanane%20Saharaoui&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+intelligent+web+systems+%F0%9F%A7%A0;Full-Stack+%2B+AI+%3D+Impact+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A;Clean+code%2C+clear+thinking+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanane%20Sahraoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanane-sahraoui)
-[![GitHub](https://img.shields.io/badge/GitHub-HananShr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HananShr)
-[![Email](https://img.shields.io/badge/Email-hanane.sahraoui20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanane.sahraoui20@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Boumerdes%2C%20Algeria-6C63FF?style=for-the-badge)](https://maps.google.com/?q=Boumerdes,Algeria)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hanane%20Saharaoui&fontSize=60&fontColor=e0aaff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Full-Stack%20%C3%97%20Artificial%20Intelligence&descAlignY=62&descSize=17&descColor=c77dff&animation=twinkling&stroke=c77dff&strokeWidth=1.5"/>
 
 </div>
-
----
-
-## 👩‍💻 About Me
-
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name       = "Hanane Saharaoui"
-        self.degree     = "Master's in Software Engineering — USTHB (2025)"
-        self.location   = "Boumerdes, Algeria 🇩🇿"
-        self.languages  = ["Arabic 🇩🇿", "French 🇫🇷", "English 🇬🇧"]
-        self.focus      = ["Full-Stack Web Dev", "AI Systems", "Data-Driven Apps"]
-        self.traits     = ["Curious", "Analytical", "Team-oriented", "Calm under pressure"]
-
-    def mission(self):
-        return "Build real-world applications where software engineering meets AI — solutions that matter."
-```
-
-> 🎓 Fresh Master's graduate with a deep passion for building intelligent, user-focused systems.
-> I thrive at the intersection of clean architecture, modern web stacks, and applied machine learning.
-> Whether it's designing a real-time alert engine or teaching Python to the next generation —
-> I bring both precision and purpose to everything I build.
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Building+AI-powered+systems+that+actually+ship;🧠+Where+clean+architecture+meets+machine+intelligence;🌍+From+Algeria+—+building+for+the+world;💜+Code+with+purpose%2C+ship+with+precision)](https://git.io/typing-svg)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<br/>
 
-### ⚙️ Backend & Frameworks
+<a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/-hanane.sahraoui20%40gmail.com-0f0c29?style=for-the-badge&logo=Gmail&logoColor=c77dff&labelColor=0f0c29"/></a>
+<a href="https://www.linkedin.com/in/hanane-sahraoui"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=c77dff&labelColor=0f0c29"/></a>
+<a href="https://github.com/HananShr"><img src="https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=c77dff&labelColor=0f0c29"/></a>
+<img src="https://img.shields.io/badge/📍 Boumerdes,_Algeria-0f0c29?style=for-the-badge&logoColor=c77dff&labelColor=0f0c29"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<br/><br/>
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🤖 AI & Data Science
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Graphviz](https://img.shields.io/badge/Graphviz-2596BE?style=for-the-badge&logo=graphviz&logoColor=white)
-
-### 🧰 Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=HananShr&color=c77dff&style=flat-square&label=✦+profile+views"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects & Experience
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## ✦ &nbsp;`whoami`
+
+```yaml
+Name: Hanane Saharaoui
+Role: Software Engineer
+Degree: M.Sc. Software Engineering — USTHB '25
+Location: Boumerdes, Algeria 🇩🇿
+Focus: Full-Stack · AI Systems · Data Engineering
+Currently: Open to full-time & remote opportunities
+Languages: Arabic (native) · French (fluent) · English (fluent)
+Superpower: Turning complex problems into elegant systems
+```
+
+<br/>
+
+> _I build at the intersection of **intelligent systems** and **great user experiences** —_
+> _from architecting real-time AI pipelines to writing the frontend layer people actually love to use._
+> _Calm under pressure, obsessive about quality, and deeply motivated by impact._
+
+<br clear="right"/>
+
+---
+
+## ⚡ &nbsp;Arsenal
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="130">
 
-### 🏭 AI Incident Management System
-
-**GCB · Final Year Master's Project**
-
-An intelligent platform for managing industrial incidents and accidents in real time.
-
-- 🔔 Real-time notification system for critical alerts
-- 🧠 ML-powered prediction & anomaly detection
-- 📊 Smart tracking & prevention mechanisms
-- 🔧 **Stack:** Python · Flask · React · Scikit-learn · PostgreSQL
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=2"/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="130">
 
-### 📡 Big Data NPS Analytics Platform
-
-**Djezzy · Final Year Bachelor's Project**
-
-A large-scale data architecture to analyze Net Promoter Score and customer satisfaction.
-
-- 🔄 Built end-to-end Big Data pipeline
-- 📈 Interactive data visualization dashboards
-- 💡 Customer behavior & churn insights
-- 🔧 **Stack:** Apache NiFi · Python · Pandas · Chart.js · SQL Server
+**Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,flask,laravel&theme=dark&perline=2"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="130">
 
-### 🏛️ IT Infrastructure · Algeria Poste
-
-**Technical Internship**
-
-- ⚙️ Network configuration & IT maintenance
-- 🖥️ Systems setup & payment device configuration
-- 🔐 Internal infrastructure support
+**Databases**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=2"/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="130">
 
-### 🎓 Tech Educator · NG School
+**AI & Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark&perline=2"/>
+<br/>
+`pandas` · `graphviz`
 
-**Part-time Teaching Role**
+</td>
+<td align="center" width="130">
 
-- 🐍 Python programming & AI fundamentals
-- 💻 IT basics for young learners
-- 🎨 Digital design workshops (Canva)
-- 📚 Interactive educational content creation
+**Tooling**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=2"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🎓 Education
+## 🔭 &nbsp;Work That Matters
+
+<details open>
+<summary><b>🏭 &nbsp;AI-Powered Incident Management System &nbsp;·&nbsp; GCB &nbsp;·&nbsp; Master's Thesis</b></summary>
+<br/>
+
+> _The most complex system I've built — and the one I'm most proud of._
+
+An end-to-end intelligent platform for **industrial incident prevention, detection, and response** — designed for real-world critical environments.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓  USTHB — University of Science and Technology Houari        │
-│       Boumediene · Algiers, Algeria                             │
-├──────────────────────────────┬──────────────────────────────────┤
-│  Master's in Software        │  Bachelor's in Computer Science  │
-│  Engineering                 │                                  │
-│  2023 → 2025 ✅              │  2019 → 2023 ✅                  │
-│  Specialization: AI Systems  │  Core CS fundamentals, networks  │
-│  & Full-Stack Development    │  algorithms & data structures    │
-└──────────────────────────────┴──────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  📡 Real-time alert system  →  WebSocket-powered     │
+│  🤖 ML prediction engine   →  Scikit-learn models   │
+│  📊 Smart dashboards        →  React + Chart.js      │
+│  🔐 Role-based access       →  Secure API layer      │
+└──────────────────────────────────────────────────────┘
 ```
 
----
+**Stack:** `Python` · `Flask` · `React` · `Scikit-learn` · `PostgreSQL` · `Chart.js`
 
-## 📜 Certifications
-
-| 🏅 Certification                 | 🏛️ Issuer                 | 📌 Focus                                       |
-| -------------------------------- | ------------------------- | ---------------------------------------------- |
-| CCNA 1 — Networking Fundamentals | Cisco                     | Network architecture, IP addressing, protocols |
-| First Aid Training               | Algerian Civil Protection | Emergency response & safety                    |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</details>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HananShr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<details open>
+<summary><b>📡 &nbsp;Big Data NPS Analytics Platform &nbsp;·&nbsp; Djezzy &nbsp;·&nbsp; Bachelor's Thesis</b></summary>
+<br/>
 
-</div>
+> _Built for one of Algeria's largest telecom operators._
 
----
+A large-scale **Big Data architecture** to measure and visualize Net Promoter Score in near-real-time — helping a national operator understand its customers at scale.
 
-## 🌍 Languages
+```
+┌──────────────────────────────────────────────────────┐
+│  🔄 Apache NiFi pipeline   →  data ingestion         │
+│  📦 Data warehouse design  →  SQL Server             │
+│  📈 Analytics dashboards   →  Pandas + Chart.js      │
+│  💡 Customer insight layer →  segmentation models   │
+└──────────────────────────────────────────────────────┘
+```
 
-<div align="center">
+**Stack:** `Apache NiFi` · `Python` · `Pandas` · `SQL Server` · `Chart.js`
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-1E6B3A?style=flat-square&logoColor=white)
-![French](https://img.shields.io/badge/French-Fluent-003189?style=flat-square&logoColor=white)
-![English](https://img.shields.io/badge/English-Fluent-B22222?style=flat-square&logoColor=white)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-| 💬 Channel  | 🔗 Link                                                                        |
-| ----------- | ------------------------------------------------------------------------------ |
-| 📧 Email    | [hanane.sahraoui20@gmail.com](mailto:hanane.sahraoui20@gmail.com)              |
-| 💼 LinkedIn | [linkedin.com/in/hanane-sahraoui](https://www.linkedin.com/in/hanane-sahraoui) |
-| 🐙 GitHub   | [github.com/HananShr](https://github.com/HananShr)                             |
-| 📱 Phone    | +213 783 99 67 94                                                              |
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 _"I don't just write code — I engineer solutions that bridge intelligence and impact."_
+</details>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HananShr&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<details>
+<summary><b>🏛️ &nbsp;IT Infrastructure &nbsp;·&nbsp; Algeria Poste &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Educator &nbsp;·&nbsp; NG School</b></summary>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" />
+**Algeria Poste** — Network configuration, IT maintenance, payment systems & infrastructure support across a national financial institution.
+
+**NG School** — Teaching Python, AI fundamentals, and IT basics to young learners. Running Canva design workshops and building interactive educational content. _Because good engineers also share knowledge._
+
+</details>
+
+---
+
+## 🎓 &nbsp;Academic Path
+
+<div align="center">
+
+```
+                       USTHB — University of Science and Technology Houari Boumediene
+                                         Algiers, Algeria 🇩🇿
+
+        ╔══════════════════════════════╗           ╔══════════════════════════════╗
+        ║  🎓 Master of Science        ║           ║  🎓 Bachelor of Science      ║
+        ║  Software Engineering        ║           ║  Computer Science            ║
+        ║                              ║           ║                              ║
+        ║  Sept 2023 → June 2025  ✅   ║           ║  Sept 2019 → June 2023  ✅   ║
+        ║                              ║           ║                              ║
+        ║  AI Systems · Full-Stack     ║           ║  Algorithms · Networks       ║
+        ║  Architecture · Research     ║           ║  Databases · OOP             ║
+        ╚══════════════════════════════╝           ╚══════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏅 &nbsp;Certifications
+
+<div align="center">
+
+| &nbsp; | Certification                                                  | Focus                                       | Status |
+| :----: | -------------------------------------------------------------- | ------------------------------------------- | :----: |
+|   🌐   | **CCNA 1** — Cisco Networking Academy                          | Network fundamentals, IP, routing protocols |   ✅   |
+|   🚑   | **First Aid & Emergency Response** — Algerian Civil Protection | Emergency protocols, safety response        |   ✅   |
+
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=c77dff&text_color=e0aaff&ring_color=9d4edd"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=e0aaff"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HananShr&theme=midnight-purple&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&dates=9d4edd&stroke=0d1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HananShr&bg_color=0d1117&color=c77dff&line=9d4edd&point=e0aaff&area=true&hide_border=true&area_color=302b63"/>
+
+</div>
+
+---
+
+## 💬 &nbsp;Let's Connect
+
+<div align="center">
+
+_I'm actively looking for roles in **software engineering**, **AI development**, or **full-stack** — remote or Algeria-based._
+_If you're building something impactful, I'd love to be part of it._
+
+<br/>
+
+<a href="mailto:hanane.sahraoui20@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-c77dff?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=c77dff"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hanane-sahraoui">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9d4edd"/>
+</a>
+&nbsp;
+<a href="https://github.com/HananShr">
+<img src="https://img.shields.io/badge/Browse%20My%20Work-7b2d8b?style=for-the-badge&logo=github&logoColor=white&labelColor=7b2d8b"/>
+</a>
+
+<br/><br/>
+
+---
+
+_"The best engineers don't just solve problems — they reframe them."_
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&fontColor=c77dff"/>
 
 </div>
