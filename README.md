@@ -15,7 +15,7 @@
 <!-- ===== QUICK LINKS ===== -->
 <p align="center">
   <a href="https://github.com/HananShr"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hanane-saharaoui"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/hanane-saharaoui-661a81243"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hananshr.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -26,7 +26,7 @@
 
 <img align="right" src="favicon.png" width="180" alt="avatar"/>
 
-I'm a **Software Engineer** from **Algeria** 🇩🇿 with a **Master's degree in Software Engineering** from **USTHB**.  
+I'm a **Software Engineer** from **Algeria** with a **Master's degree in Software Engineering** from **USTHB**.  
 I build at the intersection of **intelligent systems** and **great user experiences** — from real-time AI pipelines to polished frontend interfaces.
 
 - 🎓 **M.Sc. Software Engineering** — USTHB, Algiers (2025)
@@ -42,6 +42,7 @@ I build at the intersection of **intelligent systems** and **great user experien
 
 ## 💼 Experience
 
+<div align = "center">
 | Role                                      | Company                            | Period              |
 | ----------------------------------------- | ---------------------------------- | ------------------- |
 | 👩‍🏫 **IT Trainer (Part-Time)**             | **NG School**, Boumerdes           | Jul 2025 — Present  |
@@ -51,7 +52,7 @@ I build at the intersection of **intelligent systems** and **great user experien
 | 📡 **Practical Internship**               | **Algérie Poste**, Boumerdes       | Aug 2022 — Sep 2022 |
 | 💧 **Practical Internship**               | **Algérienne Des Eaux**, Boudouaou | Jul 2022 — Aug 2022 |
 
----
+## </div>
 
 ## 🛠️ Tech Stack
 
@@ -94,87 +95,6 @@ I build at the intersection of **intelligent systems** and **great user experien
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Incident Management System
-
-**Master's Thesis Project — GCB**
-
-Web application for managing, tracking, and preventing incidents/accidents with **AI integration** and **real-time notifications**.
-
-`React` `Flask` `Python` `SQL` `Scikit-learn` `Chart.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 NPS Data Visualization
-
-**Bachelor's Thesis — Djezzy**
-
-Big Data architecture for processing customer NPS data and generating actionable insights.
-
-`Apache NiFi` `Python` `Pandas` `Chart.js` `SQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Carpooling Web App
-
-**Academic Project**
-
-Platform connecting drivers and passengers to share trips, reduce costs, and improve transport efficiency.
-
-`React` `Flask/Node.js` `Python/JS` `SQL/MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 BillMate — Invoice Manager
-
-**Freelance Project**
-
-Modern invoice management app with auto-generation, advanced filtering, Excel export & dark blue UI.
-
-`Python` `SQLite` `Tkinter` `Pandas` `OpenPyXL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🇩🇿 RevoQuiz — Algerian Revolution Quiz
-
-**Educational Desktop App**
-
-Interactive desktop application to learn the history of the Algerian Revolution through quizzes.
-
-`Python` `Tkinter` `JSON`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Movie App
-
-**React Frontend Project**
-
-Modern movie web app with real-time search, favorites management & responsive design.
-
-`React` `JavaScript ES6+` `Context API` `CSS`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **M.Sc. Software Engineering** — USTHB, Algiers _(2023 — 2025)_
@@ -192,10 +112,6 @@ Modern movie web app with real-time search, favorites management & responsive de
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HananShr&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HananShr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies"/>
 </div>
 
@@ -204,7 +120,7 @@ Modern movie web app with real-time search, favorites management & responsive de
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanane-saharaoui"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/hanane-saharaoui-661a81243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hananshr.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
