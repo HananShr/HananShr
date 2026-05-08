@@ -42,17 +42,51 @@ I build at the intersection of **intelligent systems** and **great user experien
 
 ## 💼 Experience
 
-<div align = "center">
-| Role                                      | Company                            | Period              |
-| ----------------------------------------- | ---------------------------------- | ------------------- |
-| 👩‍🏫 **IT Trainer (Part-Time)**             | **NG School**, Boumerdes           | Jul 2025 — Present  |
-| 🎓 **End-of-Studies Internship (Master)** | **GCB**, Boumerdes                 | Feb 2025 — Jun 2025 |
-| 🛠️ **Practical Internship**               | **GCB**, Boudouaou                 | Jul 2023 — Aug 2023 |
-| 📊 **End-of-Studies Project (Bachelor)**  | **Djezzy**, Dar El Beida           | Feb 2023 — Jun 2023 |
-| 📡 **Practical Internship**               | **Algérie Poste**, Boumerdes       | Aug 2022 — Sep 2022 |
-| 💧 **Practical Internship**               | **Algérienne Des Eaux**, Boudouaou | Jul 2022 — Aug 2022 |
+<div align="center">
 
-## </div>
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Company</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>👩‍🏫 <b>IT Trainer (Part-Time)</b></td>
+      <td><b>NG School</b>, Boumerdes</td>
+      <td>Jul 2025 — Present</td>
+    </tr>
+    <tr>
+      <td>🎓 <b>End-of-Studies Internship (Master)</b></td>
+      <td><b>GCB</b>, Boumerdes</td>
+      <td>Feb 2025 — Jun 2025</td>
+    </tr>
+    <tr>
+      <td>🛠️ <b>Practical Internship</b></td>
+      <td><b>GCB</b>, Boudouaou</td>
+      <td>Jul 2023 — Aug 2023</td>
+    </tr>
+    <tr>
+      <td>📊 <b>End-of-Studies Project (Bachelor)</b></td>
+      <td><b>Djezzy</b>, Dar El Beida</td>
+      <td>Feb 2023 — Jun 2023</td>
+    </tr>
+    <tr>
+      <td>📡 <b>Practical Internship</b></td>
+      <td><b>Algérie Poste</b>, Boumerdes</td>
+      <td>Aug 2022 — Sep 2022</td>
+    </tr>
+    <tr>
+      <td>💧 <b>Practical Internship</b></td>
+      <td><b>Algérienne Des Eaux</b>, Boudouaou</td>
+      <td>Jul 2022 — Aug 2022</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -112,7 +146,7 @@ I build at the intersection of **intelligent systems** and **great user experien
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HananShr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com?user=HananShr&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="streak"/>
 </div>
 
 ---
