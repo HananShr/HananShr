@@ -1,153 +1,133 @@
-<!-- ========================================= -->
-<!--     HANANE SAHARAOUI - GITHUB README     -->
-<!-- ========================================= -->
+# 👩‍💻 Hanane Saharaoui
 
-<div align="center">
+### Software Engineer | Ingénieure Logiciel
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hanane%20Saharaoui&fontAlign=50&fontAlignY=40&color=0:0d0d0d,50:4b2aad,100:00bcd4&fontColor=ffffff&fontSize=45" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1200&color=00BCD4&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Frontend+Developer;Building+clean+and+reliable+web+applications;Focused+on+UI%2FUX+and+modern+web+technologies" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HananShr&label=Profile%20Views&color=4b2aad&style=flat" />
-
-</div>
+📍 Boumerdes, Algeria
 
 ---
 
-# 👩‍💻 About Me
+## 🚀 About Me
 
-I am **Hanane Saharaoui**, a Software Engineer and Frontend Developer from Algeria.
+I am a passionate software engineer specialized in **web development and intelligent systems**.  
+Curious, motivated, and a strong team player, I enjoy building **practical, scalable, and efficient solutions**.
 
-I focus on building clean, functional, and user-friendly web applications with attention to usability and structure.  
-I enjoy working on frontend development, UI design, and data-oriented systems, while continuously improving my technical skills.
-
-- 🎓 Master's degree in Software Engineering (2025)
-- 💻 Focus: Frontend Development & Web Applications
-- 📍 Based in Algeria
-- 🧠 Interested in UI/UX, AI, and data-driven systems
-- 📈 Always learning and improving through real projects
+I aim to join an innovative environment where I can apply my technical skills, grow professionally, and contribute to impactful projects.
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 Technical Skills
 
-### Frontend
+### 💻 Web Development
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-### Backend
+### 🐍 Programming
 
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### Databases
+### 🗄️ Databases
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00758F"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
-### Tools
+### 🛠 Tools & Platforms
 
-<p>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apache)
 
----
+### 🤖 AI & Data
 
-# 💼 Experience Overview
+- Scikit-learn
+- Pandas
+- Graphviz
 
-- Developed an AI-based incident management application during internship at GCB
-- Worked on data visualization and analytics projects involving large datasets (NPS / telecom data)
-- Experience with web development, databases, and integration of AI tools in applications
-- Teaching programming fundamentals, Python, and AI tools
+### 📐 Concepts
+
+- UML Modeling
+- Software Design
+- Data Analysis
+- Machine Learning Basics
 
 ---
 
-# 📊 GitHub Stats
+## 🎓 Education
 
-<div align="center">
+🎓 **Master 2 in Software Engineering** (2025)  
+USTHB – University of Science and Technology Houari Boumediene, Algeria
 
-<img src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
+🎓 **Bachelor in Computer Science** (2023)  
+USTHB – Algeria
 
 ---
 
-# 🔥 GitHub Streak
+## 💼 Experience
 
-<div align="center">
+### 🧠 Final Year Project – GCB (2025)
 
-<img src="https://streak-stats.demolab.com?user=HananShr&theme=tokyonight&hide_border=true&background=0D1117"/>
+- Developed an **AI-based incident & accident management system**
+- Integrated **real-time notifications** for critical alerts
+- Designed full system architecture and AI components
 
-</div>
+### 📊 Data Visualization Project – Djezzy (2023)
 
----
+- Built a **Big Data analytics system for NPS data**
+- Designed data processing architecture for insights extraction
 
-# 📈 Activity Graph
+### 🖧 Internship – Algérie Poste (2022)
 
-<div align="center">
+- Network configuration and system maintenance
+- Setup of local networks and payment devices
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HananShr&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+### 💧 Internship – Algérienne des Eaux (2022)
 
-</div>
+- IT systems exploration
+- Support for client service tools
 
----
+### 👩‍🏫 Part-time Teacher – NG School (Since 2025)
 
-# 🌱 Currently Learning
-
-- Advanced React patterns
-- Better UI/UX practices
-- System design fundamentals
-- Data analysis workflows
-
----
-
-# 🌍 Portfolio
-
-<div align="center">
-
-<a href="https://hananshr.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-4b2aad?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+- Teaching **Python, IT basics, and AI introduction**
+- Conducting hands-on workshops (Canva, design tools)
+- Preparing interactive learning materials
 
 ---
 
-# 🤝 Connect With Me
+## 📜 Certifications
 
-- GitHub: https://github.com/HananShr
-- LinkedIn: https://www.linkedin.com/in/hanane-saharaoui-661a81243/
-- Portfolio: https://hananshr.github.io/My-Portfolio/
-
----
-
-# 💡 Quote
-
-> “Clean code is not written to impress, but to be understood and maintained.”
+- CCNA 1
+- First Aid Training (Protection Civile)
 
 ---
 
-<div align="center">
+## 🌍 Languages
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4b2aad,100:00bcd4&section=footer"/>
+- 🇸🇦 Arabic → Native
+- 🇫🇷 French → Fluent
+- 🇬🇧 English → Fluent
 
-</div>
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [hanane-saharaoui](https://www.linkedin.com/in/hanane-saharaoui-661a81243/)
+- 💻 GitHub: [HananShr](https://github.com/HananShr/HananShr)
+
+---
+
+## 📊 GitHub Stats
+
+> _(Optional section – can be activated later)_
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&theme=default)
+
+---
+
+⭐ _Thanks for visiting my profile!_
