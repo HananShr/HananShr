@@ -1,284 +1,214 @@
+<!-- ===== BANNER ===== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=Hanane%20SAHARAOUI&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Junior%20Software%20Developer%20•%20Web%20Developer%20•%20Trainer&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=&fontSize=1"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=60&lines=Hanane+Saharaoui" alt="Name"/>
-
-<br/><br/>
-
-<a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/Gmail-e0aaff?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hanane-sahraoui"><img src="https://img.shields.io/badge/LinkedIn-c77dff?style=flat-square&logo=linkedin&logoColor=0f0c29"/></a>&nbsp;&nbsp;
-<a href="https://github.com/HananShr"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Boumerdes,-7b2d8b?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HananShr&color=c77dff&style=flat-square&label=Profile+Views"/>
-
+<!-- ===== TYPING EFFECT ===== -->
+<div align="center">
+  <a href="https://hananshr.github.io/My-Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Elegant+UIs+%E2%9C%A8;AI+%7C+Clean+Architecture+%7C+Data+Engineering" alt="typing"/>
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<!-- ===== QUICK LINKS ===== -->
+<p align="center">
+  <a href="https://github.com/HananShr"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanane-saharaoui"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hananshr.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-<br/>
+---
 
-<table align="right" border="0">
-<tr><td>
-<img width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</td></tr>
-</table>
+## <img src="favicon.png" width="30"/> Hello there! 👋
 
-### &nbsp; About Me
+<img align="right" src="favicon.png" width="180" alt="avatar"/>
 
-I'm a Software Engineer from **Algeria** with a Master's degree in **Software Engineering** from USTHB. I build at the intersection of **intelligent systems** and **great user experiences** — from real-time AI pipelines to polished frontend interfaces.
+I'm a **Software Engineer** from **Algeria** 🇩🇿 with a **Master's degree in Software Engineering** from **USTHB**.  
+I build at the intersection of **intelligent systems** and **great user experiences** — from real-time AI pipelines to polished frontend interfaces.
 
-&nbsp;
-
-🎓 &nbsp; **M.Sc. Software Engineering** — USTHB, Algiers _(2025)_
-
-💼 &nbsp; Open to **full-time** and **remote** opportunities
-
-🧠 &nbsp; Passionate about **AI**, **clean architecture** & **data engineering**
-
-🌍 &nbsp; Speaking **Arabic**, **French** & **English** fluently
-
-✨ &nbsp; _Turning complex problems into elegant systems_
+- 🎓 **M.Sc. Software Engineering** — USTHB, Algiers (2025)
+- 💼 Open to **full-time and remote opportunities**
+- 🧠 Passionate about **AI**, **clean architecture** & **data engineering**
+- 🌍 Speaking **Arabic**, **French** & **English** fluently
+- 🌱 Currently learning **Automation** & **Docker**
+- ✨ Turning complex problems into **elegant systems**
 
 <br clear="right"/>
 
-<br/>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+## 💼 Experience
 
-<br/>
+| Role                                      | Company                            | Period              |
+| ----------------------------------------- | ---------------------------------- | ------------------- |
+| 👩‍🏫 **IT Trainer (Part-Time)**             | **NG School**, Boumerdes           | Jul 2025 — Present  |
+| 🎓 **End-of-Studies Internship (Master)** | **GCB**, Boumerdes                 | Feb 2025 — Jun 2025 |
+| 🛠️ **Practical Internship**               | **GCB**, Boudouaou                 | Jul 2023 — Aug 2023 |
+| 📊 **End-of-Studies Project (Bachelor)**  | **Djezzy**, Dar El Beida           | Feb 2023 — Jun 2023 |
+| 📡 **Practical Internship**               | **Algérie Poste**, Boumerdes       | Aug 2022 — Sep 2022 |
+| 💧 **Practical Internship**               | **Algérienne Des Eaux**, Boudouaou | Jul 2022 — Aug 2022 |
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /> &nbsp; Tech Stack
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<div align="center">
+#### 💻 Languages
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,python,flask,laravel,mysql,postgres,sklearn,git,github,vscode,postman&theme=dark&perline=7" alt="Tech Stack"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
+#### 🎨 Frontend
 
-<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF9E0F?style=for-the-badge&logo=python&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-<div align="center">
+#### ⚙️ Backend
 
-|      Frontend      |    Backend     | Databases  |     AI & Data     |       Tools       |
-| :----------------: | :------------: | :--------: | :---------------: | :---------------: |
-|     HTML · CSS     | Python · Flask |   MySQL    |   Scikit-learn    |   Git · GitHub    |
-| JavaScript · React | Laravel · PHP  | PostgreSQL | Pandas · Graphviz | VS Code · Postman |
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</div>
+#### 🗄️ Databases
 
-<br/>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+#### 📊 Data & AI
 
-<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🔭 &nbsp; Featured Projects
+#### 🧰 Tools
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- <a href="#">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HananShr&repo=HananShr&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff"/>
-</a> -->
+---
 
-</div>
-
-<br/>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏭 &nbsp; AI Incident Management System
+### 🤖 AI Incident Management System
 
-**GCB** · _Master's Thesis_
+**Master's Thesis Project — GCB**
 
-An end-to-end intelligent platform for industrial incident **prevention**, **detection**, and **response** in critical environments.
+Web application for managing, tracking, and preventing incidents/accidents with **AI integration** and **real-time notifications**.
 
-> _The most complex system I've built — and the one I'm most proud of._
-
-&nbsp;
-
-📡 &nbsp; Real-time WebSocket alerts
-
-🤖 &nbsp; ML-powered prediction engine
-
-📊 &nbsp; Interactive React dashboards
-
-🔐 &nbsp; Role-based secure API layer
-
-&nbsp;
-
-![Python](https://img.shields.io/badge/Python-e0aaff?style=flat-square&logoColor=0f0c29&logo=python)
-![Flask](https://img.shields.io/badge/Flask-c77dff?style=flat-square&logoColor=0f0c29&logo=flask)
-![React](https://img.shields.io/badge/React-9d4edd?style=flat-square&logoColor=white&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7b2d8b?style=flat-square&logoColor=white&logo=postgresql)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-302b63?style=flat-square&logoColor=white&logo=scikitlearn)
+`React` `Flask` `Python` `SQL` `Scikit-learn` `Chart.js`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📡 &nbsp; Big Data NPS Analytics
+### 📊 NPS Data Visualization
 
-**Djezzy** · _Bachelor's Thesis_
+**Bachelor's Thesis — Djezzy**
 
-A large-scale **Big Data** architecture to measure and visualize Net Promoter Score in near-real-time for a national telecom operator.
+Big Data architecture for processing customer NPS data and generating actionable insights.
 
-> _Built for one of Algeria's largest telecom operators._
+`Apache NiFi` `Python` `Pandas` `Chart.js` `SQL`
 
-&nbsp;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔄 &nbsp; Apache NiFi data pipeline
+### 🚗 Carpooling Web App
 
-📦 &nbsp; Enterprise data warehouse
+**Academic Project**
 
-📈 &nbsp; Analytical dashboards
+Platform connecting drivers and passengers to share trips, reduce costs, and improve transport efficiency.
 
-💡 &nbsp; Customer segmentation models
+`React` `Flask/Node.js` `Python/JS` `SQL/MongoDB`
 
-&nbsp;
+</td>
+<td width="50%" valign="top">
 
-![NiFi](https://img.shields.io/badge/Apache_NiFi-e0aaff?style=flat-square&logoColor=0f0c29&logo=apache)
-![Python](https://img.shields.io/badge/Python-c77dff?style=flat-square&logoColor=0f0c29&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-9d4edd?style=flat-square&logoColor=white&logo=pandas)
-![SQL Server](https://img.shields.io/badge/SQL_Server-7b2d8b?style=flat-square&logoColor=white&logo=microsoftsqlserver)
-![Chart.js](https://img.shields.io/badge/Chart.js-302b63?style=flat-square&logoColor=white&logo=chartdotjs)
+### 🧾 BillMate — Invoice Manager
+
+**Freelance Project**
+
+Modern invoice management app with auto-generation, advanced filtering, Excel export & dark blue UI.
+
+`Python` `SQLite` `Tkinter` `Pandas` `OpenPyXL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇩🇿 RevoQuiz — Algerian Revolution Quiz
+
+**Educational Desktop App**
+
+Interactive desktop application to learn the history of the Algerian Revolution through quizzes.
+
+`Python` `Tkinter` `JSON`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Movie App
+
+**React Frontend Project**
+
+Modern movie web app with real-time search, favorites management & responsive design.
+
+`React` `JavaScript ES6+` `Context API` `CSS`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-### 🎓 &nbsp; Education
+## 🎓 Education & Certifications
 
-<br/>
+- 🎓 **M.Sc. Software Engineering** — USTHB, Algiers _(2023 — 2025)_
+- 🎓 **B.Sc. Computer Science** — USTHB, Algiers _(2019 — 2023)_
+- 📜 **CCNA 1** — INSFP Abdelhak Ben Hamouda, Boumerdes _(2022 — 2023)_
+- ⛑️ **First Aid Training** — Civil Protection, Boudouaou _(Feb 2025)_
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="400" valign="top">
-
-<img width="60" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="Master's"/>
-
-**Master of Science**
-
-Software Engineering
-
-USTHB · Algiers, Algeria
-
-_Sept 2023 → June 2025_ &nbsp; ✅
-
-&nbsp;
-
-`AI Systems` &nbsp; `Full-Stack` &nbsp; `Architecture` &nbsp; `Research`
-
-</td>
-<td align="center" width="400" valign="top">
-
-<img width="60" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="Bachelor's"/>
-
-**Bachelor of Science**
-
-Computer Science
-
-USTHB · Algiers, Algeria
-
-_Sept 2019 → June 2023_ &nbsp; ✅
-
-&nbsp;
-
-`Algorithms` &nbsp; `Networks` &nbsp; `Databases` &nbsp; `OOP`
-
-</td>
-</tr>
-</table>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 </div>
 
-<br/>
-
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50">🌐</td>
-<td><strong>CCNA 1</strong> — Cisco Networking Academy</td>
-<td><em>Network fundamentals, IP, routing</em></td>
-<td align="center">✅</td>
-</tr>
-<tr>
-<td align="center">🚑</td>
-<td><strong>First Aid & Emergency Response</strong> — Algerian Civil Protection</td>
-<td><em>Emergency protocols, safety</em></td>
-<td align="center">✅</td>
-</tr>
-</table>
+  <img src="https://streak-stats.demolab.com?user=HananShr&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="streak"/>
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HananShr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies"/>
 </div>
 
-<br/>
+---
 
-### 📊 &nbsp; GitHub Analytics
+## 🤝 Let's Connect
 
-<br/>
-
-<div align="center">
-
-<img width="600" src="https://streak-stats.demolab.com?user=HananShr&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&dates=9d4edd&stroke=0d1117&currStreakNum=e0aaff&sideNums=c77dff&sideLabels=9d4edd"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HananShr&bg_color=0d1117&color=c77dff&line=9d4edd&point=e0aaff&area=true&hide_border=true&area_color=302b63"/>
-
-<br/>
-
-### 💬 &nbsp; Let's Connect
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanane-saharaoui"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hananshr.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 <div align="center">
-
-_I'm looking for roles in **software engineering**, **AI development**, or **full-stack** — remote or Algeria-based._
-
-_If you're building something meaningful, I'd love to hear from you._
-
-<br/><br/>
-
-<a href="mailto:hanane.sahraoui20@gmail.com">
-<img height="35" src="https://img.shields.io/badge/Send_an_Email-c77dff?style=for-the-badge&logo=gmail&logoColor=0f0c29"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hanane-saharaoui">
-<img height="35" src="https://img.shields.io/badge/Connect_on_LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/HananShr">
-<img height="35" src="https://img.shields.io/badge/View_My_Work-7b2d8b?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/><br/>
-
-_"The best engineers don't just solve problems — they reframe them."_
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=120&section=footer"/>
 </div>
