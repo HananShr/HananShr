@@ -266,7 +266,7 @@ _If you're building something meaningful, I'd love to hear from you._
 <a href="mailto:hanane.sahraoui20@gmail.com">
 <img height="35" src="https://img.shields.io/badge/Send_an_Email-c77dff?style=for-the-badge&logo=gmail&logoColor=0f0c29"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hanane-sahraoui">
+<a href="https://www.linkedin.com/in/hanane-saharaoui">
 <img height="35" src="https://img.shields.io/badge/Connect_on_LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/HananShr">
