@@ -11,7 +11,7 @@
 <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/Gmail-e0aaff?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hanane-sahraoui"><img src="https://img.shields.io/badge/LinkedIn-c77dff?style=flat-square&logo=linkedin&logoColor=0f0c29"/></a>&nbsp;&nbsp;
 <a href="https://github.com/HananShr"><img src="https://img.shields.io/badge/GitHub-9d4edd?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Boumerdes,+Algeria+🇩🇿-7b2d8b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Boumerdes,-7b2d8b?style=flat-square"/>
 
 <br/><br/>
 
@@ -35,7 +35,7 @@
 
 ### &nbsp; About Me
 
-I'm a Software Engineer from **Algeria 🇩🇿** with a Master's degree in **Software Engineering** from USTHB. I build at the intersection of **intelligent systems** and **great user experiences** — from real-time AI pipelines to polished frontend interfaces.
+I'm a Software Engineer from **Algeria** with a Master's degree in **Software Engineering** from USTHB. I build at the intersection of **intelligent systems** and **great user experiences** — from real-time AI pipelines to polished frontend interfaces.
 
 &nbsp;
 
@@ -89,8 +89,6 @@ I'm a Software Engineer from **Algeria 🇩🇿** with a Master's degree in **So
 <br/>
 
 ### 🔭 &nbsp; Featured Projects
-
-<br/>
 
 <div align="center">
 
@@ -247,21 +245,9 @@ _Sept 2019 → June 2023_ &nbsp; ✅
 
 <img width="600" src="https://streak-stats.demolab.com?user=HananShr&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&dates=9d4edd&stroke=0d1117&currStreakNum=e0aaff&sideNums=c77dff&sideLabels=9d4edd"/>
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HananShr&bg_color=0d1117&color=c77dff&line=9d4edd&point=e0aaff&area=true&hide_border=true&area_color=302b63"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HananShr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HananShr&bg_color=0d1117&color=c77dff&line=9d4edd&point=e0aaff&area=true&hide_border=true&area_color=302b63"/>
 
 <br/>
 
