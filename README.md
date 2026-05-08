@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=60&lines=Hanane+Saharaoui" alt="Name"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=16&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%E2%80%A2+Full-Stack+%E2%80%A2+AI+Systems)
-
 <br/><br/>
 
 <a href="mailto:hanane.sahraoui20@gmail.com"><img src="https://img.shields.io/badge/Gmail-e0aaff?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>&nbsp;&nbsp;
@@ -96,9 +94,9 @@ I'm a Software Engineer from **Algeria 🇩🇿** with a Master's degree in **So
 
 <div align="center">
 
-<a href="#">
+<!-- <a href="#">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HananShr&repo=HananShr&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff"/>
-</a>
+</a> -->
 
 </div>
 
@@ -246,14 +244,6 @@ _Sept 2019 → June 2023_ &nbsp; ✅
 <br/>
 
 <div align="center">
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&ring_color=c77dff" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=e0aaff" />
-</p>
-
-<br/><br/>
 
 <img width="600" src="https://streak-stats.demolab.com?user=HananShr&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&dates=9d4edd&stroke=0d1117&currStreakNum=e0aaff&sideNums=c77dff&sideLabels=9d4edd"/>
 
