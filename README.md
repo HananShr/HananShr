@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3500&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=60&lines=Hanane+Saharaoui" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=16&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+•+Full-Stack+•+AI+Systems" alt="Title"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=16&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=500&height=30&lines=Software+Engineer+%E2%80%A2+Full-Stack+%E2%80%A2+AI+Systems)
 
 <br/><br/>
 
@@ -169,37 +169,6 @@ A large-scale **Big Data** architecture to measure and visualize Net Promoter Sc
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏛️ &nbsp; IT Infrastructure
-
-**Algeria Poste**
-
-Network configuration, IT maintenance, payment systems & infrastructure support across a national financial institution.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 &nbsp; Tech Educator
-
-**NG School**
-
-Teaching Python, AI fundamentals & IT basics to young learners. Running design workshops and building interactive educational content.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
 ### 🎓 &nbsp; Education
 
 <br/>
@@ -278,8 +247,11 @@ _Sept 2019 → June 2023_ &nbsp; ✅
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&ring_color=c77dff"/>&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=e0aaff"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HananShr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&ring_color=c77dff" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananShr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=e0aaff" />
+</p>
 
 <br/><br/>
 
