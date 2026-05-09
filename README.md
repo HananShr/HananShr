@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="favicon.png" width="30"/> Hello there! 👋
+## <img src="favicon.png" width="30"/> Hello there 👋
 
 <img align="right" src="favicon.png" width="180" alt="avatar"/>
 
@@ -94,6 +94,7 @@ I build at the intersection of **intelligent systems** and **great user experien
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
